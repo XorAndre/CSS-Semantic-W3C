@@ -4,7 +4,7 @@ Here are some examples of studies with pseudo-elements advancing CSS. These pseu
 Here are examples of usage:
 <br>
 Case 1: 
-foo:master{
+foo::master{
   Here is the global properties applied.
 }
 
